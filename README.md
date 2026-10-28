@@ -24,7 +24,7 @@ HTML, CSS, JavaScript and an AI-based image-processing experiment using Transfor
 Project Links
 
 - Live Demo: [https://recloth.odoo.com/ ]
-- GitHub Repository: []
+- GitHub Repository: [https://github.com/akashdhurvey414-ship-it/recloth.ai]
 
 Team
 
